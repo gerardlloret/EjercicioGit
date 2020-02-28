@@ -1,6 +1,6 @@
 # Actividad 2: Introducción a Git
 ## Memoria
-1. Lo primero que tenemos que hacer es ir a Github y crear un nuevo repositorio indicándole que queremos que sea un repositorio privado. 
+1. Lo primero que tenemos que hacer es ir a Github y crear un nuevo repositorio indicándole que queremos que sea un repositorio privado.
 ![crearRepositorio](https://user-images.githubusercontent.com/58988814/75556753-15004480-5a3f-11ea-8761-60c22bf956d7.PNG)
 2. Luego pulsamos en Clone para clonar el repositorio en local.  
 ![clonarRepo](https://user-images.githubusercontent.com/58988814/75556785-22b5ca00-5a3f-11ea-8efd-90c569f813c4.PNG)
